@@ -1973,7 +1973,37 @@
     },
     url: "https://play.google.com/store/apps/details?id=com.xe.android"
     },
-    
+    {
+    category: "Programming",
+    title: "Youtube - Kodla",
+    description: {
+        en: "A YouTube channel that produces videos about software and software development. Keywords: kodla youtube, kodla youtube, kodla, software",
+        az: "YouTube-da proqram təminatı və proqram təminatının inkişafı haqqında videolar hazırlayan kanal. Açar sözlər: kodla youtube, kodla Youtube, kodla, proqram təminatı",
+        tr: "youtube de yazılım ve yazılım geliştirme hakkında videolar yapan kanal  anahtar kelimeler: kodla youtube , Kodla Youtube , Kodla , yazılım" 
+  },
+  url: "https://www.youtube.com/@Kodla_dev"
+},
+{
+    category: "Programming",
+    title: "Discord - Kodla",
+    description: {
+        en: "A YouTube channel that produces videos about software and software development. Keywords: kodla youtube, kodla youtube, kodla, software",
+        az: "YouTube-da proqram təminatı və proqram təminatının inkişafı haqqında videolar hazırlayan kanal. Açar sözlər: kodla youtube, kodla Youtube, kodla, proqram təminatı",
+        tr: "youtube de yazılım ve yazılım geliştirme hakkında videolar yapan kanal  anahtar kelimeler: kodla youtube , Kodla Youtube , Kodla , yazılım" 
+  },
+  url: "https://discord.gg/vvYfGjxMHB"
+}, 
+{
+    category: "Programming",
+    title: "Github - Kodla",
+    description: {
+        en: "A YouTube channel that produces videos about software and software development. Keywords: kodla youtube, kodla youtube, kodla, software",
+        az: "YouTube-da proqram təminatı və proqram təminatının inkişafı haqqında videolar hazırlayan kanal. Açar sözlər: kodla youtube, kodla Youtube, kodla, proqram təminatı",
+        tr: "youtube de yazılım ve yazılım geliştirme hakkında videolar yapan kanal  anahtar kelimeler: kodla youtube , Kodla Youtube , Kodla , yazılım" 
+  },
+  url: "https://github.com/Kodla-devs"
+  
+},
 
     ];
 
